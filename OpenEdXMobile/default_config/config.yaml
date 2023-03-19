@@ -1,4 +1,4 @@
-API_HOST_URL: 'https://successlab.ai/'
+API_HOST_URL: 'https://nbjsports.co.in/'
 
 API_URL_VERSION: 
 
@@ -12,7 +12,7 @@ PLATFORM_NAME: 'SuccessLab'
 
 PHONETIC_PLATFORM_NAME: 'SuccessLab'
 
-PLATFORM_DESTINATION_NAME: 'https://successlab.ai'
+PLATFORM_DESTINATION_NAME: 'https://nbjsports.co.in'
 
 FEEDBACK_EMAIL_ADDRESS: 'support@successlab.ai'
 
@@ -20,7 +20,7 @@ FEEDBACK_EMAIL_ADDRESS: 'support@successlab.ai'
 
 #DELETE_ACCOUNT_URL: 'https://account.coursery.co/#delete-account'
 
-ECOMMERCE_URL: 'https://ecommerce.successlab.ai'
+ECOMMERCE_URL: 'https://ecommerce.nbjsports.co.in'
 
 DISCOVERY:
 
